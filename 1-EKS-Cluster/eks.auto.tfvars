@@ -1,0 +1,1 @@
+cluster_name = "My-EKS-Cluster-1"
